@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/naklic0der/Polygon_GAME/master/polygame.png)
 
 ## Getting Started
 
